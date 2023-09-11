@@ -17,3 +17,5 @@ content-based filtering- to develop our recommendation system. The user data wil
 API provides access to multi-level data such as user’s
 playlist data, song’s attribute data, artist data etc and
 the MLHD data has user and song interaction data.
+
+The outcome of the project was a Tableau UI for song recommendation based on collaborative filtering with Python Backend and TabPy integration. 
