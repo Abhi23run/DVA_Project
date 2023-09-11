@@ -36,6 +36,6 @@ The outcome of the project was a Tableau UI for song recommendation based on col
 
 <h2>Project Poster</h2>
 
-<p align="center"><img src="./" width=1200 height = 1500> <br/>
+<p align="center"><img src="./team012poster.jpeg" width=1200 height = 1500> <br/>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
