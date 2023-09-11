@@ -22,3 +22,9 @@ the MLHD data has user and song interaction data.
 
 <h2> Final Outcome</h2>
 The outcome of the project was a Tableau UI for song recommendation based on collaborative filtering with Python Backend and TabPy integration. 
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2>Static Version of Tableau </h2>
+
+<a href="https://public.tableau.com/app/profile/palash.choudhary/viz/EXPLORE-ForWeb/RecommendationDashbaord"> Link </a>
