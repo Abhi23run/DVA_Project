@@ -31,3 +31,11 @@ The outcome of the project was a Tableau UI for song recommendation based on col
 <h2>Static Version of Tableau Dashboard</h2>
 
 <a href="https://public.tableau.com/app/profile/palash.choudhary/viz/EXPLORE-ForWeb/RecommendationDashbaord"> Link </a>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2>Project Poster</h2>
+
+<p align="center"><img src="./" width=1200 height = 1500> <br/>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
