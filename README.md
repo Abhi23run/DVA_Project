@@ -1,3 +1,3 @@
-# EXPLORE : Explainable Song Recommendations with Dynamic Mood Control
+# EXPLORE: Explainable Song Recommendations with Dynamic Mood Control
 
-This Repository contains code and write ups for DVA project
+Repository hosting codebase and Report for CS 6242 Course Project at Georgia Tech.
