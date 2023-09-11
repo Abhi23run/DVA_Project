@@ -18,4 +18,7 @@ API provides access to multi-level data such as user’s
 playlist data, song’s attribute data, artist data etc and
 the MLHD data has user and song interaction data.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="Outcome">
 The outcome of the project was a Tableau UI for song recommendation based on collaborative filtering with Python Backend and TabPy integration. 
