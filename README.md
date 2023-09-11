@@ -2,6 +2,9 @@
 
 Repository hosting codebase and Poster for CS 6242 Course Project at Georgia Tech.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<h2> Abstract Summary</h2>
+
 Our project was directed towards building a music
 recommendation product with key focus on new song
 discovery and explainability. The system is an attempt
@@ -25,6 +28,6 @@ The outcome of the project was a Tableau UI for song recommendation based on col
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Static Version of Tableau </h2>
+<h2>Static Version of Tableau Dashboard</h2>
 
 <a href="https://public.tableau.com/app/profile/palash.choudhary/viz/EXPLORE-ForWeb/RecommendationDashbaord"> Link </a>
